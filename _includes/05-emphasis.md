@@ -22,6 +22,10 @@ Jane has worked on Jekyll for the past *five years*.
 
 
 {% for staff_member in site.staff_members %}
-  <h2>{{ staff_member.name }} - {{ staff_member.position }}</h2>
+  <h2>
+    <a href="{{ staff_member.url }}">
+      {{ staff_member.name }} - {{ staff_member.position }}
+    </a>
+  </h2>
   <p>{{ staff_member.content | markdownify }}</p>
 {% endfor %}
