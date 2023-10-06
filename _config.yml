@@ -1,4 +1,5 @@
 title: Welcome to my portfolio!
-theme: minima
+remote_theme: qwtel/hydejack
+
 
 <!-- theme: jekyll-theme-cayman -->
