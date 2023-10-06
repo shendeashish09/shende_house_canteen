@@ -11,3 +11,10 @@ food: Pizza
 ---
 
 <h1>{{ page.food }}</h1>
+
+
+---
+name: Jane Doe
+position: Developer
+---
+Jane has worked on Jekyll for the past *five years*.
