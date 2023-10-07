@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: Shende House Canteen
 permalink: /about
 comments: true
 ---
