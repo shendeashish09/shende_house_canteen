@@ -1,13 +1,23 @@
-## Your GitHub Learning Lab Repository for Communicating Using Markdown
+# Mediumish - Jekyll Theme
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through.
+[Live Demo](https://wowthemesnet.github.io/mediumish-theme-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/template-mediumish-bootstrap-jekyll/) &nbsp; | &nbsp; [Buy me a coffee](https://www.wowthemes.net/donate/)
 
-Oh! I haven't introduced myself...
+![mediumish](assets/images/mediumish-jekyll-template.png)
 
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
 
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
+### Copyright
 
-I'll meet you over there, can't wait to get started!
+Copyright (C) 2019 Sal, https://www.wowthemes.net
 
-This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
+**Mediumish for Jekyll** is designed and developed by [Sal](https://www.wowthemes.net) and it is *free* under MIT license. 
+
+<a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+
+### Contribute
+
+1. [Fork the repo](https://github.com/wowthemesnet/mediumish-theme-jekyll).
+2. Clone a copy of your fork on your local
+3. Create a branch off of master and give it a meaningful name (e.g. my-new-mediumish-feature).
+4. Make necessary changes, commit, push and open a pull request on GitHub.
+
+Thank you!
