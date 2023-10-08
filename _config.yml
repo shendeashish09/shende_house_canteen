@@ -13,23 +13,16 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John    
+  ashish:
+    name: ashish
+    display_name: ashish
     avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    gravatar: f9ee8449c40801aebae6cfe8e1e91a91
+    email: shende.ashish03@gmail.com
+    web: https://shendeashish09.pages.dev/
+    twitter: https://twitter.com/ShendeAshish03
+    description: "I'm a graduate of Electronics and Telecommunication 🎓 from Pune University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I am a curious learner and programmer. I think [What is needed] is the scientific approach, the adventurous and yet critical temper of science."
+ 
 
 # Plugins
 plugins:
