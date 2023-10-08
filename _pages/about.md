@@ -10,7 +10,7 @@ comments: true
 
 <p>Kirti and Kiran Shende have lovingly run Shende House Canteen for 15 years. Specializing in Maharashtrian and Karnataka cuisine. Here, you'll find more than just food; it's a taste of home, a celebration of tradition. With every dish, they weave a tale of entrepreneurial spirit and cultural pride, creating a haven for those seeking authentic, heartwarming meals.</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/20221226_171613.jpg" alt="jekyll template mediumish" /></p>
 <h4>Documentation</h4>
 
 <p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
